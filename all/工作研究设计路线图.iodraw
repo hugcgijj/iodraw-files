@@ -180,12 +180,12 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-118" value="动&lt;div&gt;态&lt;/div&gt;&lt;div&gt;拟&lt;/div&gt;&lt;div&gt;合&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fontSize=16;fontFamily=黑体;fillColor=#cdeb8b;strokeColor=#36393d;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="45" y="932.63" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="897.63" as="sourcePoint" />
             <mxPoint x="120" y="878" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="877.63" />
+              <mxPoint x="60" y="878" />
             </Array>
           </mxGeometry>
         </mxCell>
