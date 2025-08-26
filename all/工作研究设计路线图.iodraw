@@ -362,8 +362,8 @@
             <mxPoint x="600" y="1264.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-201" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;Bonferroni &lt;/span&gt;&lt;span style=&quot;&quot;&gt;校正&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1252.5" width="100" height="45" as="geometry" />
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-201" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;评价睡眠质量改善效果&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1242.5" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
