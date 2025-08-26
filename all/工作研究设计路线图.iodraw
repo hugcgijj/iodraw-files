@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="80" width="680" height="325" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-73" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;fontColor=#6f6d6d;" vertex="1" parent="1">
-          <mxGeometry x="35" y="430" width="685" height="390" as="geometry" />
+          <mxGeometry x="40.5" y="430" width="685" height="390" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-74" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="35" y="840" width="685" height="220" as="geometry" />
@@ -334,7 +334,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-170" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="520" y="610" width="20" height="120" as="geometry" />
+          <mxGeometry x="510" y="455" width="20" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
