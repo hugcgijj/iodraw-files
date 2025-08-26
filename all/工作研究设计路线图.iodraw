@@ -14,7 +14,7 @@
           <mxGeometry x="35" y="840" width="695" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-75" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1080" width="680" height="130" as="geometry" />
+          <mxGeometry x="40" y="1080" width="690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-76" value="参数计算" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="860" y="85" width="120" height="80" as="geometry" />
@@ -335,6 +335,12 @@
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-170" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="540" y="450" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-172" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="560" as="sourcePoint" />
+            <mxPoint x="560" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
