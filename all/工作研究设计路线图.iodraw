@@ -11,10 +11,10 @@
           <mxGeometry x="35" y="430" width="685" height="390" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-74" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="35" y="840" width="635" height="220" as="geometry" />
+          <mxGeometry x="35" y="840" width="685" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-75" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1080" width="630" height="130" as="geometry" />
+          <mxGeometry x="40" y="1080" width="680" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-76" value="参数计算" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="860" y="85" width="120" height="80" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry x="247.67" y="635" width="112.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-117" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;黑体&quot;&gt;建立带约束的非线性规划模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="545" y="565" width="110" height="50" as="geometry" />
+          <mxGeometry x="580" y="565" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-118" value="动&lt;div&gt;态&lt;/div&gt;&lt;div&gt;拟&lt;/div&gt;&lt;div&gt;合&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fontSize=16;fontFamily=黑体;fillColor=#cdeb8b;strokeColor=#36393d;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="50" y="907.63" width="40" height="110" as="geometry" />
