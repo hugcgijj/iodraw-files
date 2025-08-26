@@ -365,16 +365,13 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-202" value="统计评估优化光照" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="827" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-203" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="50" y="840" width="695" height="350" as="geometry" />
-        </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-204" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;多项式拟合&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1070" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="1061.34" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-205" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Tj_STOOdudtt-6Fu20Tm-204">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="1090" as="sourcePoint" />
-            <mxPoint x="570" y="1050" as="targetPoint" />
+            <mxPoint x="380" y="1081.34" as="sourcePoint" />
+            <mxPoint x="710" y="1041.34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
