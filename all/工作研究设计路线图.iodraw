@@ -184,7 +184,7 @@
           <mxGeometry x="100" y="520" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-115" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;日间照明模式&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="690" y="545" width="110" height="40" as="geometry" />
+          <mxGeometry x="670" y="555" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-116" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;夜间助眠模式&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="670" y="650" width="110" height="40" as="geometry" />
@@ -291,17 +291,17 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-142" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Tj_STOOdudtt-6Fu20Tm-73">
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-144" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Tj_STOOdudtt-6Fu20Tm-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="510" as="sourcePoint" />
             <mxPoint x="300" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-146" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;日间照明模式&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="690" y="545" width="110" height="40" as="geometry" />
+          <mxGeometry x="630" y="440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-147" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;日间照明模式&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="435" y="505" width="110" height="40" as="geometry" />
+          <mxGeometry x="280" y="490" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
