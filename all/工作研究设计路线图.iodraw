@@ -334,14 +334,16 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-184" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;模型评价&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="538.67" y="909.09" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-190" target="Tj_STOOdudtt-6Fu20Tm-193">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-190" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;回归模型拟合&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="270" y="911.34" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-193" value="" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=1;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1021.3400000000001" width="120" height="60" as="geometry" />
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-195" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;动态节律平滑&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="270" y="985" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
