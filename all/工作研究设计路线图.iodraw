@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="830" width="695" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-75" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1200" width="705" height="130" as="geometry" />
+          <mxGeometry x="30" y="1200" width="695" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-76" value="SPD 参数计算" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="827" y="80" width="120" height="80" as="geometry" />
@@ -362,7 +362,7 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-201" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;评价睡眠质量改善效果&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="600" y="1242.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-202" value="多通道模拟太阳光谱" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-202" value="统计评估优化光照" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="827" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
