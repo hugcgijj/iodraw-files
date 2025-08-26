@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="1150" width="695" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-76" value="SPD 参数计算" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="760" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-77" value="多通道寻最优权重" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="760" y="430" width="120" height="80" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry x="401.16999999999996" y="971.2" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-132" value="统&lt;div&gt;计&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fontSize=16;fontFamily=黑体;fillColor=#cdeb8b;strokeColor=#36393d;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1160" width="40" height="110" as="geometry" />
+          <mxGeometry x="50" y="1160" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-133" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-132" target="Tj_STOOdudtt-6Fu20Tm-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
