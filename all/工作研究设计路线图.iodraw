@@ -23,10 +23,10 @@
           <mxGeometry x="827" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-78" value="多通道模拟太阳光谱" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="880" y="900" width="120" height="80" as="geometry" />
+          <mxGeometry x="827" y="831.34" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-79" value="统计评估优化光照" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1122.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="827" y="1220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-80" value="" style="endArrow=classic;strokeColor=#36393d;strokeWidth=2;fontFamily=Garamond;fontSize=15;fontColor=#333333;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-76" target="Tj_STOOdudtt-6Fu20Tm-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
