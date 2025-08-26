@@ -10,6 +10,9 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-73" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Helvetica;fontSize=12;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="40.5" y="430" width="689.5" height="390" as="geometry" />
         </mxCell>
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-74" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="35" y="840" width="695" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-75" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="35" y="1200" width="690" height="130" as="geometry" />
         </mxCell>
@@ -177,7 +180,7 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-118" value="动&lt;div&gt;态&lt;/div&gt;&lt;div&gt;拟&lt;/div&gt;&lt;div&gt;合&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fontSize=16;fontFamily=黑体;fillColor=#cdeb8b;strokeColor=#36393d;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="45" y="932.63" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-74">
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="897.63" as="sourcePoint" />
             <mxPoint x="120" y="878" as="targetPoint" />
@@ -336,16 +339,6 @@
             <mxPoint x="510" y="560" as="sourcePoint" />
             <mxPoint x="560" y="510" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-179" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-118" target="Tj_STOOdudtt-6Fu20Tm-74">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="933" as="sourcePoint" />
-            <mxPoint x="120" y="878" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-74" value="" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="37.75" y="840" width="695" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
