@@ -23,7 +23,7 @@
           <mxGeometry x="880" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-78" value="动态拟合" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="950" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="880" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-79" value="统计分析" style="rounded=0;whiteSpace=wrap;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcccc;fontFamily=Garamond;fontSize=15;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="960" y="840" width="120" height="50" as="geometry" />
@@ -336,12 +336,13 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-170" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="540" y="450" width="20" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-172" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-172" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Tj_STOOdudtt-6Fu20Tm-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="590" as="sourcePoint" />
             <mxPoint x="70" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="420" />
+              <mxPoint x="70" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
