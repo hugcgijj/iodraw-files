@@ -183,9 +183,10 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="897.63" as="sourcePoint" />
-            <mxPoint x="130" y="877.63" as="targetPoint" />
+            <mxPoint x="120" y="878" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="877.63" />
+              <mxPoint x="70" y="898" />
+              <mxPoint x="70" y="878" />
             </Array>
           </mxGeometry>
         </mxCell>
