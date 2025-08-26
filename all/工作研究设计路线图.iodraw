@@ -188,7 +188,7 @@
           <mxGeometry x="680" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-402" value="结论" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;strokeWidth=2;fillColor=#3399FF;gradientColor=none;fontFamily=Garamond;fontSize=15;fontColor=#333333;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7" parent="1" vertex="1">
-          <mxGeometry x="680" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-403" value="" style="endArrow=classic;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=15;fontColor=#333333;align=center;labelBorderColor=none;labelBackgroundColor=none;fontStyle=7" parent="1" target="ELuROfRh7jPEYIWg2EeA-399" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
