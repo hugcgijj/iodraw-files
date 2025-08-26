@@ -348,7 +348,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-198" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;动态节律平滑&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1070" width="110" height="40" as="geometry" />
+          <mxGeometry x="270" y="1060" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-199" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1090" as="sourcePoint" />
+            <mxPoint x="560" y="1040" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
