@@ -331,16 +331,10 @@
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-174" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="341.16" y="900" width="20" height="135.01" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-175" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-117" target="Tj_STOOdudtt-6Fu20Tm-176">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="560" as="sourcePoint" />
-            <mxPoint x="560" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Tj_STOOdudtt-6Fu20Tm-176" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="570" y="685" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tj_STOOdudtt-6Fu20Tm-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tj_STOOdudtt-6Fu20Tm-117" target="Tj_STOOdudtt-6Fu20Tm-176">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="560" as="sourcePoint" />
             <mxPoint x="560" y="510" as="targetPoint" />
