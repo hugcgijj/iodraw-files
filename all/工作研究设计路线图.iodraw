@@ -328,6 +328,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tj_STOOdudtt-6Fu20Tm-174" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="341.15999999999997" y="935.01" width="20" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
